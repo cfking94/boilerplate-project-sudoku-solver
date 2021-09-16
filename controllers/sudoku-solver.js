@@ -12,7 +12,7 @@ function toDigit(row) {
   return result;
 }
 
-// Change puzzleString into two-dimensional array;
+// Change puzzleString into two-dimensional array
 function puzzleArray(puzzleString) {
   let result = [];
 
